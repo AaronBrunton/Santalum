@@ -1,4 +1,4 @@
-Genomic Comparisons in an Austral-Pacific Sandalwood (Santalaceae) Complex
+Genomic Comparisons in an Austral-Pacific Sandalwood (Santalaceae) Complex.
 This repository contains the genomic data used in the article titled "Genomic comparisons in an Austral-Pacific sandalwood (Santalaceae) complex highlights novel clades, divergent groups, 
 and the conservation dynamics of critically endangered and non-threatened lineages." This dataset forms the foundation of our analysis on genetic diversity, phylogenetic relationships, 
 and conservation status within the sandalwood complex found in the Austral-Pacific region.
